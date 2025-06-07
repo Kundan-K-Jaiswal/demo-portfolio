@@ -1,6 +1,6 @@
 # 💼 Demo Portfolio Website
 
-<br><br>
+<br>
 
 <h2>📄 Description</h2>
 This is a simple, static personal portfolio website built using HTML5. It is designed to showcase basic personal information, educational background, 
@@ -86,3 +86,9 @@ project-root/
 
 <h2>📌 Disclaimer</h2>
 This project is for learning and demonstration purposes only. The experience details and images are mock data, and no real affiliation is claimed.
+
+<hr>
+<pre>
+    Author : Kundan Kumar Jaiswal
+    A Basic Portfolio Using HTML 
+</pre>
